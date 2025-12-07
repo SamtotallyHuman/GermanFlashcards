@@ -1,25 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import { createContext, useContext, useEffect, useState } from 'react';
+import { FlashcardGenerator } from './components/FlashcardGenerator';
+
+const WeightContext = createContext()
+export const useWeight = () => useContext(WeightContext);
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    const [weights, setWeights] = useState(() => {
+        const stored = localStorage.getItem('weights');
+        return stored ? JSON.parse(stored) : [];
+    });
+
+    useEffect(() => {
+        localStorage.setItem('weights', JSON.stringify(weights));
+    }, [weights])
+        
+    return (
+        <div className="App">
+            <WeightContext.Provider value={{weights, setWeights}}>
+                <FlashcardGenerator />
+            </WeightContext.Provider>
+        </div>
+    );
 }
 
 export default App;

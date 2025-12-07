@@ -1,0 +1,691 @@
+[
+  {
+    "word": "ich",
+    "translation": "I (first person singular nominative (subject) pronoun)",
+    "phonetic": "/ɪç/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "I (first person singular nominative (subject) pronoun)",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sie",
+    "translation": "she",
+    "phonetic": "/ziː/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "she",
+            "examples": [
+              "Ist sie noch krank? (",
+              "Das ist meine Katze. Sie heißt Lili. (",
+              "Ich suche Vanessa. Hast du sie gesehen? ("
+            ]
+          },
+          {
+            "definition": "it (when the object/article/thing/animal etc., referred to, is feminine [die])",
+            "examples": [
+              "Scheint die Sonne noch? Nein, sie ist schon untergegangen. (",
+              "Ich suche meine Brieftasche. Hast du sie gesehen? ("
+            ]
+          },
+          {
+            "definition": "he (when the grammatical gender of the noun being referred to and designating a male person, is feminine [die])",
+            "examples": [
+              "Die Geisel Richard Meier versuchte, sich zu befreien, aber sie schaffte es nicht.",
+              "Die Wache Michael Müller beschädigte ihr Gewehr, wofür ihr Vorgesetzter sie bestrafte."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "they; them",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "Misspelling of Sie.",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "das",
+    "translation": "nominative/accusative neuter singular of der: the",
+    "phonetic": "/das/",
+    "meanings": [
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "nominative/accusative neuter singular of der: the",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "nominative/accusative neuter singular of der",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definitions": [
+          {
+            "definition": "Obsolete spelling of dass.",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ist",
+    "translation": "third-person singular present of sein",
+    "phonetic": "/ɪst/",
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "third-person singular present of sein",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "du",
+    "translation": "you (singular familiar), thou",
+    "phonetic": "/duː/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "you (singular familiar), thou",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nicht",
+    "translation": "not, non- (negates the meaning of a verb, adjective, or adverb)",
+    "phonetic": "/nɪçt/",
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "not, non- (negates the meaning of a verb, adjective, or adverb)",
+            "examples": [
+              "Bitte nicht stören!",
+              "Das ist nicht wahr."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "(tag question, dated or formal) right?; is it?; is it not?",
+            "examples": [
+              "Du bist sicher die Claudia, nicht?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "die",
+    "translation": "nominative/accusative singular feminine of der",
+    "phonetic": "/diː/",
+    "meanings": [
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "nominative/accusative singular feminine of der",
+            "examples": [
+              "die Frau"
+            ]
+          },
+          {
+            "definition": "nominative/accusative plural of der",
+            "examples": [
+              "die Männer"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "inflection of der:",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "es",
+    "translation": "nominative and accusative neuter third-person singular personal pronoun",
+    "phonetic": "/ɛs/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "nominative and accusative neuter third-person singular personal pronoun",
+            "examples": [
+              "Wo ist das Buch? Es liegt auf dem Tisch. (",
+              "Wo ist das Kind? Ich habe es.",
+              "Welche Farbe hat das Pferd? Es ist weiß. (",
+              "Ich bemerkte ein merkwürdiges bärtiges Individuum und beschloss, es im Auge zu behalten. (",
+              "Das Mädchen wusste nicht, dass es beobachtet wurde. (",
+              "Jedes Vorstandsmitglied kann das Wort ergreifen, wenn es dies wünscht. ("
+            ]
+          },
+          {
+            "definition": "Impersonal pronoun used to refer to statements, activities, the environment etc., or as a placeholder/dummy pronoun — it, there",
+            "examples": [
+              "Das kann es nicht geben. (",
+              "Sie begann zu laufen, und ich tat es auch.",
+              "Es war einmal eine schöne Prinzessin. (",
+              "Es ist gut zu leben! (",
+              "Es regnet. (",
+              "Es ist sicher, dass morgen die Sonne scheinen wird. (",
+              "Wie geht es dir? (",
+              "Ich bin es, Michael. (",
+              "Es spielt das Fernsehorchester. (",
+              "Sie wird es noch weit bringen. ("
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "(regional, colloquial) Alternative form of das",
+            "examples": [
+              "Soll ich es Fenster zumachen?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "und",
+    "translation": "(co-ordinating) and",
+    "phonetic": "/ʊnt/",
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definitions": [
+          {
+            "definition": "(co-ordinating) and",
+            "examples": [
+              "Kaffee und Kuchen",
+              "Ich kam, sah und siegte."
+            ]
+          },
+          {
+            "definition": "(colloquial) links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them",
+            "examples": [
+              "Er und Abwaschen? Vielleicht einmal im Jahr!"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "so?, now?, and?",
+            "examples": [
+              "Und? Wie ist es gelaufen?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "der",
+    "translation": "the",
+    "phonetic": "/deːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "the",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "inflection of der:",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "who; that; which",
+            "examples": [
+              "Ich kenne einen Mann, der das kann."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "dative feminine singular of der: (to) whom, which, that",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "(attributive, stressed) that",
+            "examples": [
+              "Der Mann war es!"
+            ]
+          },
+          {
+            "definition": "(indicative) him, he",
+            "examples": [
+              "Der hat es getan!"
+            ]
+          },
+          {
+            "definition": "(differential) the one, him",
+            "examples": [
+              "Der mit dem Mantel"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "dative feminine singular of der: (to) that, (to) her",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wir",
+    "translation": "we",
+    "phonetic": "/viːɐ̯/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "we",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "was",
+    "translation": "(interrogative) what",
+    "phonetic": "/vas/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "(interrogative) what",
+            "examples": [
+              "Was machst du heute?"
+            ]
+          },
+          {
+            "definition": "(relative) which (referring to the entire preceding clause)",
+            "examples": [
+              "Sie tanzte gut, was er bewunderte."
+            ]
+          },
+          {
+            "definition": "(relative) that, which (referring to das, alles, etwas, nichts, and neuter substantival adjectives)",
+            "examples": [
+              "Das ist alles, was ich weiß.",
+              "Das ist das Beste, was mir passieren könnte."
+            ]
+          },
+          {
+            "definition": "(relative, colloquial) that, which (referring to neuter singular nouns, instead of standard das)",
+            "examples": [
+              "Siehst du das weiße Haus, was renoviert wird?"
+            ]
+          },
+          {
+            "definition": "(indefinite, colloquial) something, anything (instead of standard etwas)",
+            "examples": [
+              "Ich hab was gefunden."
+            ]
+          },
+          {
+            "definition": "(interrogative, dated) why (with emphasis, astonishment or disapproval)",
+            "examples": [
+              "Was birgst du so bang dein Gesicht?"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "(archaic) what; what kind of",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "(colloquial) Clipping of etwas.",
+            "examples": [
+              "Ich komm was später."
+            ]
+          },
+          {
+            "definition": "(interrogative, colloquial) why, what for",
+            "examples": [
+              "Was bist du heute so stumm?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zu",
+    "translation": "to, towards (indicates directionality)",
+    "phonetic": "/t͡suː/",
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "to, towards (indicates directionality)",
+            "examples": [
+              "zum Bahnhof"
+            ]
+          },
+          {
+            "definition": "with respect to; regarding",
+            "examples": [
+              "Zu Punkt 1 möchte ich bemerken, dass..."
+            ]
+          },
+          {
+            "definition": "along with; with (accompanying (the main thing in question))",
+            "examples": [
+              "Wasser zum Essen trinken"
+            ]
+          },
+          {
+            "definition": "at, on (indicates location)",
+            "examples": [
+              "zu Hause"
+            ]
+          },
+          {
+            "definition": "at (indicates time)",
+            "examples": [
+              "zur richtigen Zeit",
+              "zu Beginn"
+            ]
+          },
+          {
+            "definition": "by, in, on, at (indicates mode (of transportation, speech, etc.))",
+            "examples": [
+              "zu Pferd"
+            ]
+          },
+          {
+            "definition": "(with a verb) for; (with a noun) as, by way of (for the purpose of)",
+            "examples": []
+          },
+          {
+            "definition": "for (in honor of, or directed towards the celebration or event of)",
+            "examples": []
+          },
+          {
+            "definition": "into (indicates transition into another form or substance)",
+            "examples": []
+          },
+          {
+            "definition": "as, for, to be (to take on the role of)",
+            "examples": []
+          },
+          {
+            "definition": "to (used to indicate ratios)",
+            "examples": []
+          },
+          {
+            "definition": "at (denotes a price or rate)",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "particle",
+        "definitions": [
+          {
+            "definition": "(with infinitives of verbs) to",
+            "examples": [
+              "etwas zu essen"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "(with adjectives and adverbs) too (excessively)",
+            "examples": [
+              "zu schnell"
+            ]
+          },
+          {
+            "definition": "(by extension, slang) An intensifier.",
+            "examples": [
+              "Dieses Essen ist zu lecker!"
+            ]
+          },
+          {
+            "definition": "towards; at",
+            "examples": []
+          },
+          {
+            "definition": "(somewhat informal) shut; closed; locked",
+            "examples": []
+          },
+          {
+            "definition": "ahead, on (along, forwards (continuing an action))",
+            "examples": []
+          },
+          {
+            "definition": "(colloquial) As a separated part of dazu or wozu",
+            "examples": [
+              "\"Wann willst du denn los?\"\n\"Um 10? Nur wenn du da Lust zu hast.\""
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "(somewhat informal) shut, closed (made inaccessible or impassable; not open)",
+            "examples": [
+              "Das Geschäft war zu.",
+              "Die Tür muss aus Brandschutzgründen immer zu sein.",
+              "Die Tür ist zu, ich komm nicht rein."
+            ]
+          },
+          {
+            "definition": "closed (not operating or conducting trade)",
+            "examples": []
+          },
+          {
+            "definition": "done up (fastened)",
+            "examples": []
+          },
+          {
+            "definition": "(slang) hammered; very drunk",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "er",
+    "translation": "(personal) he.",
+    "phonetic": "/eːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "(personal) he.",
+            "examples": [
+              "Wo ist Klaus? Wo ist er?",
+              "Dies ist mein Hund. Er heißt Waldi."
+            ]
+          },
+          {
+            "definition": "(personal) it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).",
+            "examples": [
+              "Dort steht ein Baum. Er ist über hundert Jahre alt."
+            ]
+          },
+          {
+            "definition": "(personal) she (when the grammatical gender of the noun being referred to and designating a female person, is masculine (der)).",
+            "examples": [
+              "Im Frauengefängnis versuchte ein Häftling zu flüchten, aber er kam nicht weit."
+            ]
+          },
+          {
+            "definition": "(personal, archaic) Alternative spelling of Er (you (polite))",
+            "examples": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ein",
+    "translation": "(cardinal number) one",
+    "phonetic": "/aɪ̯n/",
+    "meanings": [
+      {
+        "partOfSpeech": "numeral",
+        "definitions": [
+          {
+            "definition": "(cardinal number) one",
+            "examples": [
+              "Ich hatte nur ein Bier bestellt."
+            ]
+          },
+          {
+            "definition": "the same",
+            "examples": [
+              "Als wir klein waren, schliefen mein Bruder und ich in einem Bett."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "article",
+        "definitions": [
+          {
+            "definition": "a, an",
+            "examples": [
+              "ein Mann",
+              "eine Frau",
+              "ein Kind"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "(now chiefly in compounds) indicating (concrete or abstract/metaphorical) motion into something",
+            "examples": [
+              "ein und aus gehen, weder ein noch aus wissen",
+              "derein, feldein, hafenein, herein, hierein, hinein, jahrein, waldein (older spellings include Wald-ein), worein"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "(predicative only) on",
+            "examples": [
+              "Ist der Schalter ein oder aus? (d. h., Ist der Schalter ein- oder ausgeschaltet?)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

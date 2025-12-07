@@ -1,0 +1,46 @@
+.settings-container {
+    margin: 20px auto; /* Adds space around and centers it horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* This will give you the curved edges */
+    max-width: 400px; /* Prevents it from getting too wide on large screens */
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow */
+}
+
+.settings-header h2 {
+    margin-top: 0;
+    text-align: center;
+    color: #333;
+}
+
+.setting {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.setting label {
+    font-weight: 500;
+    color: #555;
+}
+
+.setting select,
+.setting input {
+    border: 1px solid #ddd;
+    background-color: white;
+    width: 120px; /* A fixed width for alignment */
+    transition: border-color 0.2s;
+}
+
+.setting select:focus,
+.setting input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.setting .control-button {
+    width: 100%;
+    margin-top: 10px;
+}
