@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 const lemmaMap = require('./lemmaMap.json');
 
-const WORD_COUNT = 15;
+const WORD_COUNT = 30;
 const OUTPUT_PATH = path.join(__dirname, 'src', 'top3000.json');
 
 const PART_OF_SPEECH_PRIORITY = [
@@ -16,6 +16,7 @@ const PART_OF_SPEECH_PRIORITY = [
     'adverb',
     'adjective',
     'numeral',
+	'contraction',
 ];
 
 async function getWordData(word) {

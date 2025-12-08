@@ -140,7 +140,7 @@ const DefinitionDetails = ({ entry }) => {
   return (
     <>
       {phonetic && <p><strong>Phonetic:</strong> {phonetic}</p>}
-      <p><strong>Part of Speech:</strong> {entry.partOfSpeech}</p>
+      <p><strong>Part of Speech:</strong> {entry.partOfSpeech.charAt(0).toUpperCase() + entry.partOfSpeech.slice(1)}</p>
       <ul>
         {entry.senses?.map((sense, i) => (
           <li key={i}>

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useWeight } from "../App";
 import { Flashcard } from "./Flashcard";
 import { Settings } from "./Settings";
+import data from "../top3000.json";
 
 function intialiseWeights() {
     const weights = Array.from({ length: 101 }, (_, i) => i === 0 ? 0 : 1 / i);
@@ -14,15 +15,28 @@ function sampleFromWeights(weights, n) {
     const weightsToConsider = weights.slice(0, limit);
     const totalWeight = weightsToConsider.reduce((sum, weight) => sum + weight, 0);
 
+    if (totalWeight === 0) {
+        return 0;
+    }
+
     const r = Math.random() * totalWeight;
     let cumulative = 0;
 
     for (let i = 0; i < limit; i++) {
         cumulative += weightsToConsider[i];
-        if (r <= cumulative) return i + 1; // return index in 1..N
+        if (r <= cumulative && weightsToConsider[i] > 0) {
+            return i + 1; // return index in 1..N
+        }
     }
 
-    return limit;
+    // Fallback for floating point issues where r might be slightly larger than totalWeight
+    for (let i = limit - 1; i >= 0; i--) {
+        if (weightsToConsider[i] > 0) {
+            return i + 1;
+        }
+    }
+
+    return 0; // Should not be reached if totalWeight > 0
 }
 
 const hyperparameters = {
@@ -96,20 +110,49 @@ export const FlashcardGenerator = () => {
     const [currentID, setCurrentID] = useState(0)
     const [mode, setMode] = useState('Dynamic');
     const [nValue, setNValue] = useState(100);
+    const [selectedTypes, setSelectedTypes] = useState({
+        'verb': true,
+        'article': true,
+        'pronoun': true,
+        'preposition': true,
+        'conjunction': true,
+        'noun': true,
+        'adverb': true,
+        'adjective': true,
+        'numeral': true,
+		'contraction': true
+    });
 
     if (weights[0] === undefined) {
         setWeights(intialiseWeights())
     }
 
     useEffect(() => {
-        if (mode === 'Fixed') {
-            setCurrentID(sampleFromWeights(weights, nValue))
-        } else {
-            setCurrentID(sampleFromWeights(weights))
+        const activeTypes = Object.values(selectedTypes).some(v => v);
+        if (!activeTypes) {
+            setCurrentID(0);
+            return;
         }
-    }, [weights, mode, nValue])
+
+        const weightsToSample = weights.map((weight, index) => {
+            const wordData = data[index];
+            if (wordData && selectedTypes[wordData.details.partOfSpeech]) {
+                return weight;
+            }
+            return 0;
+        });
+
+        let newID;
+        if (mode === 'Fixed') {
+            newID = sampleFromWeights(weightsToSample, nValue);
+        } else {
+            newID = sampleFromWeights(weightsToSample);
+        }
+        setCurrentID(newID);
+    }, [weights, mode, nValue, selectedTypes])
 
     function returnScore(successFlag) {
+		console.log(selectedTypes)
         const success = successFlag ? 1 : 0;
         setWeights(updateWeights(weights, currentID, success, mode, nValue));
     }
@@ -123,7 +166,15 @@ export const FlashcardGenerator = () => {
     return (
         <>
             <Flashcard id={currentID} onAction={returnScore} />
-            <Settings mode={mode} setMode={setMode} nValue={nValue} setNValue={setNValue} onReset={handleReset} />
+            <Settings
+                mode={mode}
+                setMode={setMode}
+                nValue={nValue}
+                setNValue={setNValue}
+                onReset={handleReset}
+                selectedTypes={selectedTypes}
+                setSelectedTypes={setSelectedTypes}
+            />
         </>
     )
 }

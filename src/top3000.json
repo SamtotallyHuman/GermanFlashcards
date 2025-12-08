@@ -8827,5 +8827,4434 @@
       "synonyms": [],
       "antonyms": []
     }
+  },
+  {
+    "default": {
+      "word": "auch",
+      "wordForm": "adverb",
+      "gender": null,
+      "translation": "also, too, as well (in addition to whatever or whoever has previously been listed)",
+      "definition": "also, too, as well (in addition to whatever or whoever has previously been listed)"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "interjection",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/aʊ̯x/",
+            "tags": [
+              "standard"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/aʊ̯/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "also",
+              "Austria",
+              "also",
+              "southern Germany"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "in answering a yes-no question, used to express that the thing asked about covers part of the truth but not all of it; “yes, and more”",
+            "tags": [],
+            "examples": [
+              "Ach, du bist Bauingenieur. Dann baust du Brücken? — Auch."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "adverb",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/aʊ̯x/",
+          "tags": [
+            "standard"
+          ]
+        },
+        {
+          "type": "ipa",
+          "text": "/aʊ̯/",
+          "tags": [
+            "Austria",
+            "Southern Germany",
+            "also",
+            "Austria",
+            "also",
+            "southern Germany"
+          ]
+        }
+      ],
+      "forms": [],
+      "senses": [
+        {
+          "definition": "also, too, as well (in addition to whatever or whoever has previously been listed)",
+          "tags": [],
+          "examples": [
+            "Ich will auch ein Eis.",
+            "Ich will auch ein Eis."
+          ],
+          "quotes": [],
+          "synonyms": [
+            "ebenfalls",
+            "ebenso"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "Used for emphasis.",
+          "tags": [],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": [
+            {
+              "definition": "To confirm a preceding statement by someone else: really, actually, indeed, in fact",
+              "tags": [],
+              "examples": [
+                "Ich will auch ein Eis.",
+                "Das ist auch so.",
+                "Du solltest zur Polizei gehen. ― Mach ich auch."
+              ],
+              "quotes": [],
+              "synonyms": [],
+              "antonyms": [],
+              "translations": [],
+              "subsenses": []
+            },
+            {
+              "definition": "To ask for confirmation of something one considers necessary.",
+              "tags": [],
+              "examples": [
+                "Hast du das Licht auch ausgemacht?"
+              ],
+              "quotes": [],
+              "synonyms": [],
+              "antonyms": [],
+              "translations": [],
+              "subsenses": []
+            },
+            {
+              "definition": "To imply that something is unreasonable.",
+              "tags": [],
+              "examples": [
+                "Du bist auch witzig... Wie soll ich das denn ohne Auto alles schaffen?!",
+                "Warum müssen die auch alle ihren Müll hier abladen!"
+              ],
+              "quotes": [],
+              "synonyms": [],
+              "antonyms": [],
+              "translations": [],
+              "subsenses": []
+            }
+          ]
+        },
+        {
+          "definition": "even (implying an extreme example in the case mentioned, as compared to the implied reality)",
+          "tags": [],
+          "examples": [
+            "Auch wenn das stimmt, ist es noch kein endgültiger Beweis.",
+            "Auch ein Professor schreibt schon mal was falsch."
+          ],
+          "quotes": [],
+          "synonyms": [
+            "sogar",
+            "selbst"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "ever as in whatever, whenever, however, etc.",
+          "tags": [],
+          "examples": [
+            "Was du auch tust, es wird immer einer besser sein."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "er",
+      "wordForm": "pronoun",
+      "gender": null,
+      "translation": "(personal) he.",
+      "definition": "(personal) he."
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "pronoun",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/eːr/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "[ʔeːɐ̯]",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "[ʔɛɐ̯]",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/ɐ/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "glossary",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "ich",
+          "tags": [
+            "first-person",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "du",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "-e",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "er",
+          "tags": [
+            "masculine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "neuter",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "wir",
+          "tags": [
+            "first-person",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "Ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "meiner",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "mein",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "deiner",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "dein",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "feminine",
+            "genitive",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "unser",
+          "tags": [
+            "first-person",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "genitive",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihrer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "Euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "mir",
+          "tags": [
+            "dative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dir",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "dative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "dative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihnen",
+          "tags": [
+            "dative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihnen",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "mich",
+          "tags": [
+            "accusative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dich",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihn",
+          "tags": [
+            "accusative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "accusative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "accusative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "(personal) he.",
+          "tags": [
+            "personal"
+          ],
+          "examples": [
+            "Wo ist Klaus? Wo ist er?",
+            "Dies ist mein Hund. Er heißt Waldi."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(personal) it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).",
+          "tags": [
+            "personal"
+          ],
+          "examples": [
+            "Dort steht ein Baum. Er ist über hundert Jahre alt."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(personal) she (when the grammatical gender of the noun being referred to and designating a female person, is masculine (der)).",
+          "tags": [
+            "personal"
+          ],
+          "examples": [
+            "Im Frauengefängnis versuchte ein Häftling zu flüchten, aber er kam nicht weit."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(personal, archaic) Alternative spelling of Er (you (polite))",
+          "tags": [
+            "alt of",
+            "alternative",
+            "archaic",
+            "personal"
+          ],
+          "examples": [],
+          "quotes": [
+            {
+              "text": "Da sprach er „Vater, ich sehe wohl, bei ihm werd ich nicht satt, will er mir einen Stab von Eisen verschaffen, der stark ist, und den ich vor meinen Knien nicht zerbrechen kann, so will ich wieder fort gehen.“ Da war der Bauer froh, und spannte seine zwei Pferde vor den Wagen, fuhr zum Schmied, und holte einen Stab so groß und dick, als ihn die zwei Pferde nur fahren konnten.",
+              "reference": "1837, Brothers Grimm, “Der junge Riese”, in Kinder- und Haus-Märchen, Band 2^(https://de.wikisource.org/wiki/Der_junge_Riese_(1837)), page 27:"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "als",
+      "wordForm": "conjunction",
+      "gender": null,
+      "translation": "(subordinating, referring to time of occurrence) at (approximately) the same moment, when, while, as",
+      "definition": "(subordinating, referring to time of occurrence) at (approximately) the same moment, when, while, as"
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "conjunction",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/als/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "[als]",
+          "tags": []
+        }
+      ],
+      "forms": [],
+      "senses": [
+        {
+          "definition": "(subordinating, referring to time of occurrence) at (approximately) the same moment, when, while, as",
+          "tags": [
+            "subordinating"
+          ],
+          "examples": [
+            "Als er ankam, öffnete sie die Tür.",
+            "Als wir jung waren, spielten wir im Wald."
+          ],
+          "quotes": [],
+          "synonyms": [
+            "da",
+            "weil"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(used with a comparison or as an exception) than",
+          "tags": [],
+          "examples": [
+            "Zwei ist größer als eins.",
+            "Die Kopie sieht anders aus als das Original.",
+            "Er sagt nichts anderes als die Wahrheit."
+          ],
+          "quotes": [],
+          "synonyms": [
+            "denn",
+            "weder",
+            "wie"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(nonstandard after the 19th century) To the same degree that, as (distinguished from the aforementioned use in that comparison was between equals)",
+          "tags": [
+            "nonstandard"
+          ],
+          "examples": [],
+          "quotes": [
+            {
+              "text": "Wir sind immer so klein, als unser Glück, aber auch so groß, als unser Schmerz.",
+              "reference": "1837 January 7, Friedrich Hebbel, Tagebücher, An Emil Rousseau in Heidelberg – München:"
+            }
+          ],
+          "synonyms": [
+            "wie"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "as; like; in the function of; in the form of",
+          "tags": [],
+          "examples": [
+            "Als Polizist muss ich es tun.",
+            "Wir sind Feinde, aber im Moment müssen wir uns als Freunde verhalten.",
+            "Sie verkleidete sich als Krankenschwester, um das Krankenhaus zu betreten."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "as if",
+          "tags": [],
+          "examples": [],
+          "quotes": [
+            {
+              "text": "Es war als rängen beständig zwei Mächte um sie, als würde sie wehrlos von ihnen hin und her gerissen.",
+              "reference": "1918, Elisabeth von Heyking, Aus dem Lande der Ostseeritter, in Zwei Erzählungen, Phillipp Reclam jun., page 100:"
+            }
+          ],
+          "synonyms": [
+            "als wenn",
+            "wie wenn",
+            "als ob"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(after negative pronoun) but, other than",
+          "tags": [],
+          "examples": [],
+          "quotes": [
+            {
+              "text": "Doch die zwei Königstöchter Hildegard und Berta gewahrten nichts als den weissen Hirsch […].",
+              "reference": "1918, Meinrad Lienert, Zürcher Sagen:"
+            }
+          ],
+          "synonyms": [
+            "es sei denn",
+            "außer",
+            "mit Ausnahme",
+            "wie"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "an",
+      "wordForm": "preposition",
+      "gender": null,
+      "translation": "(local) on, upon, at, in, against",
+      "definition": "(local) on, upon, at, in, against"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adverb",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/an/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "[ʔan]",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "onward; on",
+            "tags": [],
+            "examples": [
+              "von heute an"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adjective",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/an/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "[ʔan]",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "(predicative only) on",
+            "tags": [
+              "indeclinable",
+              "predicative"
+            ],
+            "examples": [
+              "Ist der Schalter an oder aus? [= Ist der Schalter an- oder ausgeschaltet?]",
+              "Dein Mikro ist nicht an."
+            ],
+            "quotes": [],
+            "synonyms": [
+              "angeschaltet",
+              "ein",
+              "eingeschaltet"
+            ],
+            "antonyms": [
+              "aus",
+              "ausgeschaltet"
+            ],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "preposition",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/an/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "[ʔan]",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "de-pronadv-table",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "an",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "woran",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "daran",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "hieran",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "(local) on, upon, at, in, against",
+          "tags": [],
+          "examples": [
+            "Das Bild hängt an der Wand."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "by, near, close to, next to",
+          "tags": [],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(temporal, with days or times of day) on; in; at",
+          "tags": [
+            "temporal"
+          ],
+          "examples": [
+            "Wir treffen uns am (an dem) Dienstag.",
+            "Ich werde sie am (an dem) Abend sehen."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(temporal) a, per, only used with the word Tag (“day”), otherwise use in",
+          "tags": [
+            "temporal"
+          ],
+          "examples": [
+            "zweimal am Tag"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "on, onto",
+          "tags": [],
+          "examples": [
+            "Ich hänge das Bild an die Wand."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "at, against",
+          "tags": [],
+          "examples": [
+            "Schauen Sie an die Tafel."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "to, for",
+          "tags": [],
+          "examples": [
+            "Ein Brief an Anna."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(any relation to an object or attribute regardless of time and space) of, on, in, for, about",
+          "tags": [],
+          "examples": [
+            "an einem Roman schreiben",
+            "Mangel an Lebensmitteln",
+            "Alle Menschen sind frei und gleich an Würde und Rechten geboren",
+            "Er ist schuld an dem Unglück",
+            "Das mag ich nicht an ihm"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "bei",
+      "wordForm": "preposition",
+      "gender": null,
+      "translation": "(locative) by, near",
+      "definition": "(locative) by, near"
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "preposition",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/baɪ̯/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "de-pronadv-table",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "bei",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "wobei",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "dabei",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "hierbei",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "bey",
+          "tags": [
+            "alternative"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "(locative) by, near",
+          "tags": [
+            "locative"
+          ],
+          "examples": [
+            "die Bank bei der Kirche",
+            "die Bäckerei beim Bahnhof"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with a person, family, shop) at",
+          "tags": [],
+          "examples": [
+            "Ich schlafe bei Peter.",
+            "Ich bin beim Metzger."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with an organization or company) for, at, in",
+          "tags": [],
+          "examples": [
+            "bei der Firma arbeiten",
+            "das Arbeitsklima bei Schmidt & Co."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(formal, reflexive) with, on",
+          "tags": [
+            "formal",
+            "reflexive"
+          ],
+          "examples": [
+            "Er hat es nicht bei sich."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with an event considered certain) upon, at the time of",
+          "tags": [],
+          "examples": [
+            "bei Abfahrt des Zuges"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with an event considered theoretical) in case of, in the event of",
+          "tags": [],
+          "examples": [
+            "bei Hochwasser"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with a continuing activity or condition) during; while; during the existence of",
+          "tags": [],
+          "examples": [
+            "bei der Arbeit",
+            "beim Lesen des Textes",
+            "bei Schnee"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with an item that implies an activity) over; during",
+          "tags": [],
+          "examples": [
+            "bei einem Glas Wein",
+            "bei einem Film"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(dated, in a postal address) care of; via",
+          "tags": [
+            "dated"
+          ],
+          "examples": [
+            "Frau Tina Müller bei Firma Schmidt & Co."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(now dialectal, nonstandard, northern and central Germany) with, to, towards [with accusative]",
+          "tags": [
+            "dialectal",
+            "nonstandard"
+          ],
+          "examples": [
+            "Leg dat bei die andern Sachen!",
+            "Komm ma bei mich!"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "am",
+      "wordForm": "contraction",
+      "gender": null,
+      "translation": "(+ adjective ending with -en + masculine or neuter noun) an + dem, at the, on the",
+      "definition": "(+ adjective ending with -en + masculine or neuter noun) an + dem, at the, on the"
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "contraction",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/am/",
+          "tags": []
+        }
+      ],
+      "forms": [],
+      "senses": [
+        {
+          "definition": "(+ adjective ending with -en + masculine or neuter noun) an + dem, at the, on the",
+          "tags": [
+            "contraction"
+          ],
+          "examples": [
+            "am Ende",
+            "am Rande",
+            "am Leben"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(+ adjective ending with -en + masculine or neuter noun) auf + dem, on the, at the",
+          "tags": [
+            "contraction"
+          ],
+          "examples": [
+            "am Berg",
+            "am Fest",
+            "am Schirm"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "Forms the superlative in adverbial and predicate use.",
+          "tags": [
+            "contraction"
+          ],
+          "examples": [
+            "am schnellsten",
+            "am schwächsten",
+            "am wichtigsten",
+            "Er spielt am besten."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "sie",
+      "wordForm": "pronoun",
+      "gender": null,
+      "translation": "she",
+      "definition": "she"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "pronoun",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/ziː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/zə/",
+            "tags": []
+          }
+        ],
+        "forms": [
+          {
+            "word": "no-table-tags",
+            "tags": [
+              "table-tags"
+            ]
+          },
+          {
+            "word": "glossary",
+            "tags": [
+              "inflection-template"
+            ]
+          },
+          {
+            "word": "ich",
+            "tags": [
+              "first-person",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "du",
+            "tags": [
+              "error-unrecognized-form",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "-e",
+            "tags": [
+              "error-unrecognized-form",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "er",
+            "tags": [
+              "masculine",
+              "nominative",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "sie",
+            "tags": [
+              "feminine",
+              "nominative",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "feminine",
+              "nominative",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "es",
+            "tags": [
+              "neuter",
+              "nominative",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "wir",
+            "tags": [
+              "first-person",
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "error-unrecognized-form",
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "word": "sie",
+            "tags": [
+              "nominative",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "nominative",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "Sie",
+            "tags": [
+              "error-unrecognized-form",
+              "nominative"
+            ]
+          },
+          {
+            "word": "Ihr",
+            "tags": [
+              "error-unrecognized-form",
+              "nominative"
+            ]
+          },
+          {
+            "word": "meiner",
+            "tags": [
+              "first-person",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "mein",
+            "tags": [
+              "first-person",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "deiner",
+            "tags": [
+              "error-unrecognized-form",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "dein",
+            "tags": [
+              "error-unrecognized-form",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "seiner",
+            "tags": [
+              "genitive",
+              "masculine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "sein",
+            "tags": [
+              "genitive",
+              "masculine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "feminine",
+              "genitive",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "seiner",
+            "tags": [
+              "genitive",
+              "neuter",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "sein",
+            "tags": [
+              "genitive",
+              "neuter",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "unser",
+            "tags": [
+              "first-person",
+              "genitive",
+              "plural"
+            ]
+          },
+          {
+            "word": "euer",
+            "tags": [
+              "error-unrecognized-form",
+              "genitive",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "genitive",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "Ihrer",
+            "tags": [
+              "error-unrecognized-form",
+              "genitive"
+            ]
+          },
+          {
+            "word": "Euer",
+            "tags": [
+              "error-unrecognized-form",
+              "genitive"
+            ]
+          },
+          {
+            "word": "mir",
+            "tags": [
+              "dative",
+              "first-person",
+              "singular"
+            ]
+          },
+          {
+            "word": "dir",
+            "tags": [
+              "dative",
+              "error-unrecognized-form",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihm",
+            "tags": [
+              "dative",
+              "masculine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "dative",
+              "feminine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "ihm",
+            "tags": [
+              "dative",
+              "neuter",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "uns",
+            "tags": [
+              "dative",
+              "first-person",
+              "plural"
+            ]
+          },
+          {
+            "word": "euch",
+            "tags": [
+              "dative",
+              "error-unrecognized-form",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihnen",
+            "tags": [
+              "dative",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "Ihnen",
+            "tags": [
+              "dative",
+              "error-unrecognized-form"
+            ]
+          },
+          {
+            "word": "Euch",
+            "tags": [
+              "dative",
+              "error-unrecognized-form"
+            ]
+          },
+          {
+            "word": "mich",
+            "tags": [
+              "accusative",
+              "first-person",
+              "singular"
+            ]
+          },
+          {
+            "word": "dich",
+            "tags": [
+              "accusative",
+              "error-unrecognized-form",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihn",
+            "tags": [
+              "accusative",
+              "masculine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "sie",
+            "tags": [
+              "accusative",
+              "feminine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "accusative",
+              "feminine",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "es",
+            "tags": [
+              "accusative",
+              "neuter",
+              "singular",
+              "third-person"
+            ]
+          },
+          {
+            "word": "uns",
+            "tags": [
+              "accusative",
+              "first-person",
+              "plural"
+            ]
+          },
+          {
+            "word": "euch",
+            "tags": [
+              "accusative",
+              "error-unrecognized-form",
+              "plural"
+            ]
+          },
+          {
+            "word": "sie",
+            "tags": [
+              "accusative",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "accusative",
+              "plural",
+              "third-person"
+            ]
+          },
+          {
+            "word": "Sie",
+            "tags": [
+              "accusative",
+              "error-unrecognized-form"
+            ]
+          },
+          {
+            "word": "Euch",
+            "tags": [
+              "accusative",
+              "error-unrecognized-form"
+            ]
+          },
+          {
+            "word": "se",
+            "tags": [
+              "alternative",
+              "colloquial",
+              "enclitic"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "alternative",
+              "colloquial",
+              "enclitic"
+            ]
+          }
+        ],
+        "senses": [
+          {
+            "definition": "they; them",
+            "tags": [
+              "plural"
+            ],
+            "examples": [],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "pronoun",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/ziː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/zə/",
+            "tags": []
+          }
+        ],
+        "forms": [
+          {
+            "word": "se",
+            "tags": [
+              "alternative",
+              "colloquial",
+              "enclitic"
+            ]
+          },
+          {
+            "word": "-se",
+            "tags": [
+              "alternative",
+              "colloquial",
+              "enclitic"
+            ]
+          }
+        ],
+        "senses": [
+          {
+            "definition": "Misspelling of Sie.",
+            "tags": [
+              "alt of",
+              "misspelling"
+            ],
+            "examples": [],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "pronoun",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/ziː/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/zə/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "glossary",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "ich",
+          "tags": [
+            "first-person",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "du",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "-e",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "er",
+          "tags": [
+            "masculine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "neuter",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "wir",
+          "tags": [
+            "first-person",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "Ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "meiner",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "mein",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "deiner",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "dein",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "feminine",
+            "genitive",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "unser",
+          "tags": [
+            "first-person",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "genitive",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihrer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "Euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "mir",
+          "tags": [
+            "dative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dir",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "dative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "dative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihnen",
+          "tags": [
+            "dative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihnen",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "mich",
+          "tags": [
+            "accusative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dich",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihn",
+          "tags": [
+            "accusative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "accusative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "accusative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "se",
+          "tags": [
+            "alternative",
+            "colloquial",
+            "enclitic"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "alternative",
+            "colloquial",
+            "enclitic"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "she",
+          "tags": [
+            "feminine"
+          ],
+          "examples": [
+            "Ist sie noch krank? (",
+            "Das ist meine Katze. Sie heißt Lili. (",
+            "Ich suche Vanessa. Hast du sie gesehen? ("
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "it (when the object/article/thing/animal etc., referred to, is feminine [die])",
+          "tags": [
+            "feminine"
+          ],
+          "examples": [
+            "Scheint die Sonne noch? Nein, sie ist schon untergegangen. (",
+            "Ich suche meine Brieftasche. Hast du sie gesehen? ("
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "he (when the grammatical gender of the noun being referred to and designating a male person, is feminine [die])",
+          "tags": [
+            "feminine"
+          ],
+          "examples": [
+            "Die Geisel Richard Meier versuchte, sich zu befreien, aber sie schaffte es nicht.",
+            "Die Wache Michael Müller beschädigte ihr Gewehr, wofür ihr Vorgesetzter sie bestrafte."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "dies",
+      "wordForm": "pronoun",
+      "gender": null,
+      "translation": "Alternative form of dieses",
+      "definition": "Alternative form of dieses"
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "pronoun",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "[ˈdiːs]",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "dis",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        },
+        {
+          "word": "diess",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        },
+        {
+          "word": "dieß",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        },
+        {
+          "word": "diß",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "Alternative form of dieses",
+          "tags": [
+            "alt of",
+            "alternative"
+          ],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "nach",
+      "wordForm": "preposition",
+      "gender": null,
+      "translation": "after, past (later in time)",
+      "definition": "after, past (later in time)"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "postposition",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/naːx/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/nax/",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "according to",
+            "tags": [],
+            "examples": [
+              "meiner Meinung nach",
+              "meinem Urteil nach"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adverb",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/naːx/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/nax/",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "(in compound verbs) after, behind, later, next to",
+            "tags": [],
+            "examples": [
+              "Meine Uhr geht nach."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "preposition",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/naːx/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/nax/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "de-pronadv-table",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "nach",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "wonach",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "danach",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "hiernach",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "after, past (later in time)",
+          "tags": [],
+          "examples": [
+            "Viertel nach sechs",
+            "nach einer Woche"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "after, behind (in sequence)",
+          "tags": [],
+          "examples": [
+            "B kommt nach A."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "to, towards (with geographical names; see usage notes below)",
+          "tags": [],
+          "examples": [
+            "die Flucht nach Ägypten"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "according to; guided by",
+          "tags": [],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "by the authority of; following",
+          "tags": [],
+          "examples": [
+            "die Analyse nach Marx"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(with verbs of sensual perception) like (see usage notes below)",
+          "tags": [],
+          "examples": [
+            "Das riecht nach Knoblauch."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "for (indicating desire for an object)",
+          "tags": [],
+          "examples": [
+            "nach etwas greifen",
+            "nach etwas streben",
+            "nach etwas suchen"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "dass",
+      "wordForm": "conjunction",
+      "gender": null,
+      "translation": "(subordinating) that",
+      "definition": "(subordinating) that"
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "conjunction",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/das/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/dɑs/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "daß",
+          "tags": [
+            "alternative"
+          ]
+        },
+        {
+          "word": "daſs",
+          "tags": [
+            "alternative"
+          ]
+        },
+        {
+          "word": "dasz",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        },
+        {
+          "word": "das",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        },
+        {
+          "word": "dat",
+          "tags": [
+            "alternative",
+            "colloquial",
+            "dialectal",
+            "nonstandard"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "(subordinating) that",
+          "tags": [
+            "subordinating"
+          ],
+          "examples": [
+            "Ich habe gehört, dass du krank bist."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "(subordinating, chiefly colloquial) so that",
+          "tags": [
+            "colloquial",
+            "subordinating"
+          ],
+          "examples": [
+            "Beeil dich, dass wir bald losfahren können."
+          ],
+          "quotes": [],
+          "synonyms": [
+            "damit",
+            "sodass"
+          ],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "ihr",
+      "wordForm": "pronoun",
+      "gender": null,
+      "translation": "you, ye (plural, familiar)",
+      "definition": "you, ye (plural, familiar)"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "pronoun",
+        "pronunciations": [],
+        "forms": [
+          {
+            "word": "jr",
+            "tags": [
+              "alternative",
+              "obsolete"
+            ]
+          }
+        ],
+        "senses": [
+          {
+            "definition": "dative of sie",
+            "tags": [
+              "dative",
+              "form of"
+            ],
+            "examples": [
+              "Hast du ihr das Buch gegeben?"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "determiner",
+        "pronunciations": [],
+        "forms": [
+          {
+            "word": "no-table-tags",
+            "tags": [
+              "table-tags"
+            ]
+          },
+          {
+            "word": "g",
+            "tags": [
+              "inflection-template"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "masculine",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "feminine",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "neuter",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihres",
+            "tags": [
+              "genitive",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "feminine",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihres",
+            "tags": [
+              "genitive",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "genitive",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihrem",
+            "tags": [
+              "dative",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "dative",
+              "feminine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrem",
+            "tags": [
+              "dative",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihren",
+            "tags": [
+              "dative",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihren",
+            "tags": [
+              "accusative",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "accusative",
+              "feminine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "accusative",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "word": "jr",
+            "tags": [
+              "alternative",
+              "obsolete"
+            ]
+          }
+        ],
+        "senses": [
+          {
+            "definition": "her (possessive)",
+            "tags": [],
+            "examples": [
+              "Laura hat mir ihr neues Auto gezeigt.",
+              "Die Katze spielt oft mit ihren Spielsachen."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "its (when the owning object/article/thing/animal etc., referred to, is feminine)",
+            "tags": [],
+            "examples": [
+              "die Sonne und ihre Wärme"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "determiner",
+        "pronunciations": [],
+        "forms": [
+          {
+            "word": "no-table-tags",
+            "tags": [
+              "table-tags"
+            ]
+          },
+          {
+            "word": "g",
+            "tags": [
+              "inflection-template"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "masculine",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "feminine",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "neuter",
+              "nominative",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihres",
+            "tags": [
+              "genitive",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "feminine",
+              "genitive",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihres",
+            "tags": [
+              "genitive",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "genitive",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihrem",
+            "tags": [
+              "dative",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrer",
+            "tags": [
+              "dative",
+              "feminine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihrem",
+            "tags": [
+              "dative",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihren",
+            "tags": [
+              "dative",
+              "plural"
+            ]
+          },
+          {
+            "word": "ihren",
+            "tags": [
+              "accusative",
+              "masculine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "accusative",
+              "feminine",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihr",
+            "tags": [
+              "accusative",
+              "neuter",
+              "singular"
+            ]
+          },
+          {
+            "word": "ihre",
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "word": "jr",
+            "tags": [
+              "alternative",
+              "obsolete"
+            ]
+          }
+        ],
+        "senses": [
+          {
+            "definition": "their",
+            "tags": [],
+            "examples": [
+              "Die Kinder spielen mit ihrem Hund.",
+              "die Wolken und ihre Schönheit"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "pronoun",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/iːɐ̯/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/ɐ/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "glossary",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "ich",
+          "tags": [
+            "first-person",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "du",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "-e",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "singular"
+          ]
+        },
+        {
+          "word": "er",
+          "tags": [
+            "masculine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "feminine",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "neuter",
+            "nominative",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "wir",
+          "tags": [
+            "first-person",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "nominative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "Ihr",
+          "tags": [
+            "error-unrecognized-form",
+            "nominative"
+          ]
+        },
+        {
+          "word": "meiner",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "mein",
+          "tags": [
+            "first-person",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "deiner",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "dein",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "feminine",
+            "genitive",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "seiner",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sein",
+          "tags": [
+            "genitive",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "unser",
+          "tags": [
+            "first-person",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihrer",
+          "tags": [
+            "genitive",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihrer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "Euer",
+          "tags": [
+            "error-unrecognized-form",
+            "genitive"
+          ]
+        },
+        {
+          "word": "mir",
+          "tags": [
+            "dative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dir",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihr",
+          "tags": [
+            "dative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "ihm",
+          "tags": [
+            "dative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "dative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "ihnen",
+          "tags": [
+            "dative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Ihnen",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "dative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "mich",
+          "tags": [
+            "accusative",
+            "first-person",
+            "singular"
+          ]
+        },
+        {
+          "word": "dich",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "singular"
+          ]
+        },
+        {
+          "word": "ihn",
+          "tags": [
+            "accusative",
+            "masculine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "es",
+          "tags": [
+            "accusative",
+            "neuter",
+            "singular",
+            "third-person"
+          ]
+        },
+        {
+          "word": "uns",
+          "tags": [
+            "accusative",
+            "first-person",
+            "plural"
+          ]
+        },
+        {
+          "word": "euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form",
+            "plural"
+          ]
+        },
+        {
+          "word": "sie",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "-se",
+          "tags": [
+            "accusative",
+            "plural",
+            "third-person"
+          ]
+        },
+        {
+          "word": "Sie",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "Euch",
+          "tags": [
+            "accusative",
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "jr",
+          "tags": [
+            "alternative",
+            "obsolete"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "you, ye (plural, familiar)",
+          "tags": [
+            "plural"
+          ],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "aus",
+      "wordForm": "preposition",
+      "gender": null,
+      "translation": "out of; from (from the inside of something)",
+      "definition": "out of; from (from the inside of something)"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adverb",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/aʊs/",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "out",
+            "tags": [],
+            "examples": [],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adjective",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/aʊs/",
+            "tags": []
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "over; finished; done; up",
+            "tags": [
+              "indeclinable",
+              "predicative"
+            ],
+            "examples": [
+              "Das Spiel ist aus!"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(of a device) off",
+            "tags": [
+              "indeclinable",
+              "predicative"
+            ],
+            "examples": [],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "ein",
+          "eingeschaltet",
+          "an",
+          "angeschaltet"
+        ]
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "preposition",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/aʊs/",
+          "tags": []
+        }
+      ],
+      "forms": [
+        {
+          "word": "no-table-tags",
+          "tags": [
+            "table-tags"
+          ]
+        },
+        {
+          "word": "de-pronadv-table",
+          "tags": [
+            "inflection-template"
+          ]
+        },
+        {
+          "word": "aus",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "woraus",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "daraus",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        },
+        {
+          "word": "hieraus",
+          "tags": [
+            "error-unrecognized-form"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "out of; from (from the inside of something)",
+          "tags": [],
+          "examples": [
+            "Hole das Besteck aus der Schublade!"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "from (a place; see usage notes below)",
+          "tags": [],
+          "examples": [
+            "Er kommt aus demselben Dorf wie ich."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "of; made of; out of",
+          "tags": [],
+          "examples": [
+            "ein Haus aus Eis"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "for; out of (because of a feeling or inner quality)",
+          "tags": [],
+          "examples": [
+            "etwas aus Freundschaft tun",
+            "etwas aus Feigheit unterlassen"
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "so",
+      "wordForm": "pronoun",
+      "gender": null,
+      "translation": "(obsolete, relative) that, which, who",
+      "definition": "(obsolete, relative) that, which, who"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adverb",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/zoː/",
+            "tags": [
+              "Germany"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/soː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/sɔ/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "Switzerland"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "so, such, that",
+            "tags": [],
+            "examples": [
+              "Die Leute sind so nett.",
+              "Dieser Hammer ist nicht so gut.",
+              "Das ist so eine gute Idee!",
+              "so und so"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "as (followed by an adjective or adverb plus wie in a statement of equality)",
+            "tags": [],
+            "examples": [
+              "Er rennt so schnell wie der Blitz."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "thus, like this/that, in this/that way, in this/that manner",
+            "tags": [],
+            "examples": [
+              "Wenn du den Ball so wirfst, triffst du die Zielscheibe."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "then (in that case)",
+            "tags": [],
+            "examples": [
+              "Wirst du wieder gesund, so freue ich mich."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(colloquial) expletive; sometimes intensifying, sometimes with no noticeable meaning",
+            "tags": [
+              "colloquial"
+            ],
+            "examples": [
+              "Wir sind runtergegangen und haben uns hier so hingesetzt."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "conjunction",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/zoː/",
+            "tags": [
+              "Germany"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/soː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/sɔ/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "Switzerland"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "(coordinating) thus, so, pursuant to the aforementioned premises",
+            "tags": [
+              "coordinating"
+            ],
+            "examples": [],
+            "quotes": [
+              {
+                "text": "Im Einzelnen ist die Abgrenzung zwischen Bekenntnisfreiheit und Religionsausübungsfreiheit unsicher. So kann etwa die religiöse Kleidung auch der Religionsausübungsfreiheit zugeordnet werden.",
+                "reference": "2018, Gerhard Czermak, Eric Hilgendorf, Religions- und Weltanschauungsrecht. Eine Einführung, 2nd edition, Springer, →DOI, →ISBN, § 7 Individuelle Religions- und Weltanschauungsfreiheit Rn. 130, page 68:"
+              }
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(subordinating, chiefly archaic, sometimes law and regional) an, if",
+            "tags": [
+              "archaic",
+              "regional",
+              "sometimes",
+              "subordinating"
+            ],
+            "examples": [
+              "So es Euch beliebt."
+            ],
+            "quotes": [],
+            "synonyms": [
+              "falls",
+              "im Falle dass",
+              "wenn"
+            ],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "particle",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/zoː/",
+            "tags": [
+              "Germany"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/soː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/sɔ/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "Switzerland"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "(colloquial) quotative particle, somewhat similar to be like but also combinable with other verbs",
+            "tags": [
+              "colloquial"
+            ],
+            "examples": [
+              "Ich so: \"Mach mal dalli!\", und er dann so: \"Ich bin ja schon dabei!\"",
+              "Ich dachte mir nur so: \"Ja komm, lass stecken.\""
+            ],
+            "quotes": [
+              {
+                "text": "Und er so wie aus heiterem Himmel so: Momentchen, da läuft doch Hip-Hop!\nUnd ich so: Ja, das ist richtig!\nUnd er so: Biste auch Rapper?\nUnd ich so: Ja, so Hobby\nUnd der Typ so original so: Oh welch ein Zufall, das bin ich nämlich auch!",
+                "reference": "1998, “Ich so, Er so”, Dendemann (lyrics), performed by Eins Zwo:"
+              },
+              {
+                "text": "Besonders überzeugt hatte mich dieser Moment meines Dates: „Ich habe gesagt: Ich weiß nicht, ob ich mich gerade bereit für Sex fühle. Da lag ich schon halb nackt in seinem Bett. Und er so: Cool, dann können wir ja einfach knutschen und kuscheln!“",
+                "reference": "2022 May 16, Lou Zucker, “Erwartungen beim Dating: Mehr als das Minimum”, in Die Tageszeitung: taz, →ISSN:"
+              }
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(colloquial) generalizing particle, combines with question words to ask to be given a broad idea, typically by way of some examples",
+            "tags": [
+              "colloquial"
+            ],
+            "examples": [
+              "Was liest du so?",
+              "Wie ist es da so?"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "interjection",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/zoː/",
+            "tags": [
+              "Germany"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/soː/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/sɔ/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "Switzerland"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "(colloquial) a discourse marker in the beginning of a sentence indicating a topic having been dealt with and another being tackled",
+            "tags": [
+              "colloquial"
+            ],
+            "examples": [],
+            "quotes": [
+              {
+                "text": "So, das sind die Entscheidungen der größten Gelehrten über die doch nicht ganz unwichtige Frage, wie eine der Sprachen auszusprechen sei, in der jahraus jahrein in Deutschland gutgezählte 50 000 junge Menschenkinder unterrichtet werden.\nTrotz jenen Entscheidungen ist natürlich noch lange nicht daran zu denken, daß dem Unfug einer als gänzlich falsch erkannten Aussprache des Griechischen ein Ende gesetzt wäre. Der Schlendrian wird auf diesem Gebiete des Schulwesens wohl ebenso lange dauern, wie auf vielen andern; denn bequem ist allerdings jener Schlendrian, nur wissenschaftlich ist er nicht, und unbrauchbar für das Leben ist er obendrein. Die Beseitigung des Schlendrians werde ich wohl nicht mehr erleben, auch dann nicht, wenn Plato selber aus der Asche auferstünde und die deutschen Schulmänner die richtige Aussprache lehrte. Sie würden ihm beweisen, daß er sich irre: er habe in den mehr als zwei Jahrtausenden seit seinem Tode gewiß die richtige Aussprache vergessen; sie aber, die deutschen Oberlehrer und Direktoren, kennten sie ganz genau: sie wäre buchstäblich so wie das Neuhochdeutsche des 20. Jahrhunderts gewesen.",
+                "reference": "1887, Eduard Engel, Griechische Frühlingstage, 4th, purer edition, Radebeul bei Dresden: Haupt & Hammon, published 1927, page 361:"
+              }
+            ],
+            "synonyms": [
+              "tamam",
+              "okay",
+              "in Ordnung",
+              "fein",
+              "gut"
+            ],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "pronoun",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/zoː/",
+          "tags": [
+            "Germany"
+          ]
+        },
+        {
+          "type": "ipa",
+          "text": "/soː/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/sɔ/",
+          "tags": [
+            "Austria",
+            "Southern Germany",
+            "Switzerland"
+          ]
+        }
+      ],
+      "forms": [],
+      "senses": [
+        {
+          "definition": "(obsolete, relative) that, which, who",
+          "tags": [
+            "obsolete",
+            "relative"
+          ],
+          "examples": [
+            "Derhalben sind die Christen schuldig, der Obrigkeit unterthan […] zu seyn in Allem, so ohne Sünde geschehen mag."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [
+        "wo",
+        "der",
+        "welcher"
+      ],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "noch",
+      "wordForm": "conjunction",
+      "gender": null,
+      "translation": "(following a negation, especially weder) nor; function word introducing each except the first term or series, indicating none of them is true",
+      "definition": "(following a negation, especially weder) nor; function word introducing each except the first term or series, indicating none of them is true"
+    },
+    "alternativeDefinitions": [
+      {
+        "language": {
+          "code": "de",
+          "name": "German"
+        },
+        "partOfSpeech": "adverb",
+        "pronunciations": [
+          {
+            "type": "ipa",
+            "text": "/nɔx/",
+            "tags": [
+              "standard"
+            ]
+          },
+          {
+            "type": "ipa",
+            "text": "/nɔ/",
+            "tags": []
+          },
+          {
+            "type": "ipa",
+            "text": "/no/",
+            "tags": [
+              "Austria",
+              "Southern Germany",
+              "also",
+              "Austria",
+              "also",
+              "southern Germany"
+            ]
+          }
+        ],
+        "forms": [],
+        "senses": [
+          {
+            "definition": "still, yet (up to and including a given time)",
+            "tags": [],
+            "examples": [
+              "Magst du mich noch?",
+              "Ich bin noch nicht fertig."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "still, eventually, sometime (at an unspecified time in the future)",
+            "tags": [],
+            "examples": [
+              "Er kommt noch.",
+              "Vielleicht brauchen wir das noch."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "additionally, in addition, besides, else; more often expressed in English with another, more",
+            "tags": [],
+            "examples": [
+              "Da ist noch einer.",
+              "Da sind noch welche.",
+              "Ich habe noch Schokolade im Auto.",
+              "Weißt du noch was?"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(with comparative) even, still",
+            "tags": [],
+            "examples": [
+              "Seins ist sehr schön, aber deins ist noch schöner!",
+              "Oder besser noch: du machst es sofort."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(following a question) again",
+            "tags": [],
+            "examples": [
+              "Wie war noch sein Name?"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "Added to parting phrases that express a wish for the following period of time.",
+            "tags": [],
+            "examples": [
+              "Schönen Abend noch!",
+              "Viel Spaß noch!"
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(often untranslated in English) Gives vague temporal nuances, e.g. that something is over, or that it follows something else.",
+            "tags": [],
+            "examples": [
+              "Das waren noch Zeiten!",
+              "Nach der Arbeit gehen wir oft noch was trinken."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          },
+          {
+            "definition": "(in the expression “ist / sind noch von / aus”) Emphasizes that something has been preserved, inherited, passed on.",
+            "tags": [],
+            "examples": [
+              "Der Ohrring ist noch von meiner Oma.",
+              "Diese Straßenschilder sind noch aus der Kaiserzeit."
+            ],
+            "quotes": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subsenses": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "conjunction",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/nɔx/",
+          "tags": [
+            "standard"
+          ]
+        },
+        {
+          "type": "ipa",
+          "text": "/nɔ/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/no/",
+          "tags": [
+            "Austria",
+            "Southern Germany",
+            "also",
+            "Austria",
+            "also",
+            "southern Germany"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "word": "...noch",
+          "tags": [
+            "canonical"
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "definition": "(following a negation, especially weder) nor; function word introducing each except the first term or series, indicating none of them is true",
+          "tags": [],
+          "examples": [
+            "Ich mag weder ihn noch dich.",
+            "Er versteht es nicht, noch wird er es jemals verstehen."
+          ],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  },
+  {
+    "default": {
+      "word": "zum",
+      "wordForm": "contraction",
+      "gender": null,
+      "translation": "Contraction of zu dem (“to the; for the”).",
+      "definition": "Contraction of zu dem (“to the; for the”)."
+    },
+    "alternativeDefinitions": [],
+    "details": {
+      "language": {
+        "code": "de",
+        "name": "German"
+      },
+      "partOfSpeech": "contraction",
+      "pronunciations": [
+        {
+          "type": "ipa",
+          "text": "/tsuːm/",
+          "tags": []
+        },
+        {
+          "type": "ipa",
+          "text": "/tsʊm/",
+          "tags": []
+        }
+      ],
+      "forms": [],
+      "senses": [
+        {
+          "definition": "Contraction of zu dem (“to the; for the”).",
+          "tags": [
+            "abbreviation",
+            "alt of",
+            "contraction"
+          ],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        },
+        {
+          "definition": "Contraction of zu einem (“to a; for a”).",
+          "tags": [
+            "abbreviation",
+            "alt of",
+            "contraction"
+          ],
+          "examples": [],
+          "quotes": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subsenses": []
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
   }
 ]

@@ -1,7 +1,24 @@
 import React from 'react';
 import './Settings.css';
 
-export const Settings = ({ mode, setMode, nValue, setNValue, onReset }) => {
+export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTypes, setSelectedTypes }) => {
+    const wordTypes = [
+        'verb',
+        'noun',
+        'adjective',
+        'adverb',
+        'preposition',
+        'pronoun',
+        'article',
+        'conjunction',
+        'numeral',
+		'contraction',
+    ];
+
+    const handleTypeChange = (event) => {
+        const { name, checked } = event.target;
+        setSelectedTypes(prev => ({ ...prev, [name]: checked }));
+    };
     return (
         <div className="settings-container">
             <div className="settings-header">
@@ -26,6 +43,23 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset }) => {
                         />
                     </div>
                 )}
+                <div className='setting'>
+                    <label>Word Types:</label>
+                    <div className="checkbox-group">
+                        {wordTypes.map((type) => (
+                            <div key={type}>
+                                <input
+                                    type="checkbox"
+                                    id={`type-${type}`}
+                                    name={type}
+                                    checked={selectedTypes[type] || false}
+                                    onChange={handleTypeChange}
+                                />
+                                <label htmlFor={`type-${type}`}>{type.charAt(0).toUpperCase() + type.slice(1)}</label>
+                            </div>
+                        ))}
+                    </div>
+                </div>
                 <div className="setting">
                     <button
                         type="button"
