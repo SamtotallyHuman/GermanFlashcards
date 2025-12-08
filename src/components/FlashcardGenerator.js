@@ -108,8 +108,10 @@ function updateWeights(oldWeights, currentID, successFlag, mode, nValue) {
 export const FlashcardGenerator = () => {
     const { weights, setWeights } = useWeight();
     const [currentID, setCurrentID] = useState(0)
-    const [mode, setMode] = useState('Dynamic');
+    const [mode, setMode] = useState('Uniform');
     const [nValue, setNValue] = useState(100);
+    const [uniformMin, setUniformMin] = useState(1);
+    const [uniformMax, setUniformMax] = useState(100);
     const [selectedTypes, setSelectedTypes] = useState({
         'verb': true,
         'article': true,
@@ -119,8 +121,7 @@ export const FlashcardGenerator = () => {
         'noun': true,
         'adverb': true,
         'adjective': true,
-        'numeral': true,
-		'contraction': true
+        'other': true
     });
 
     if (weights[0] === undefined) {
@@ -128,16 +129,52 @@ export const FlashcardGenerator = () => {
     }
 
     useEffect(() => {
-        const activeTypes = Object.values(selectedTypes).some(v => v);
-        if (!activeTypes) {
+        if (!Object.values(selectedTypes).some(v => v)) {
             setCurrentID(0);
+            return;
+        }
+
+        const specificTypes = Object.keys(selectedTypes).filter(t => t !== 'other');
+
+        if (mode === 'Uniform') {
+            const possibleIDs = [];
+            const min = Math.max(1, uniformMin || 1);
+            const max = Math.min(data.length, uniformMax || 100);
+
+            for (let i = min - 1; i < max; i++) {
+                const wordData = data[i];
+                if (wordData && wordData.details) {
+                    const pos = wordData.details.partOfSpeech;
+
+                    if (selectedTypes[pos] || (selectedTypes.other && !specificTypes.includes(pos))) {
+                        possibleIDs.push(i + 1);
+                    }
+                }
+            }
+
+            if (possibleIDs.length > 0) {
+                const randomIndex = Math.floor(Math.random() * possibleIDs.length);
+                setCurrentID(possibleIDs[randomIndex]);
+            } else {
+                setCurrentID(0);
+            }
             return;
         }
 
         const weightsToSample = weights.map((weight, index) => {
             const wordData = data[index];
-            if (wordData && selectedTypes[wordData.details.partOfSpeech]) {
-                return weight;
+            if (wordData && wordData.details) {
+                const pos = wordData.details.partOfSpeech;
+
+                // If the part of speech is one of the specific types and it's selected
+                if (selectedTypes[pos]) {
+                    return weight;
+                }
+
+                // If 'other' is selected and the part of speech is not one of the specific types
+                if (selectedTypes.other && !specificTypes.includes(pos)) {
+                    return weight;
+                }
             }
             return 0;
         });
@@ -149,10 +186,9 @@ export const FlashcardGenerator = () => {
             newID = sampleFromWeights(weightsToSample);
         }
         setCurrentID(newID);
-    }, [weights, mode, nValue, selectedTypes])
+    }, [weights, mode, nValue, selectedTypes, uniformMin, uniformMax])
 
     function returnScore(successFlag) {
-		console.log(selectedTypes)
         const success = successFlag ? 1 : 0;
         setWeights(updateWeights(weights, currentID, success, mode, nValue));
     }
@@ -171,6 +207,10 @@ export const FlashcardGenerator = () => {
                 setMode={setMode}
                 nValue={nValue}
                 setNValue={setNValue}
+                uniformMin={uniformMin}
+                setUniformMin={setUniformMin}
+                uniformMax={uniformMax}
+                setUniformMax={setUniformMax}
                 onReset={handleReset}
                 selectedTypes={selectedTypes}
                 setSelectedTypes={setSelectedTypes}

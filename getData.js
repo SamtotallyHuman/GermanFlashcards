@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 const lemmaMap = require('./lemmaMap.json');
 
-const WORD_COUNT = 30;
+const WORD_COUNT = 1000;
 const OUTPUT_PATH = path.join(__dirname, 'src', 'top3000.json');
 
 const PART_OF_SPEECH_PRIORITY = [
@@ -17,6 +17,7 @@ const PART_OF_SPEECH_PRIORITY = [
     'adjective',
     'numeral',
 	'contraction',
+	'particle'
 ];
 
 async function getWordData(word) {
@@ -44,7 +45,7 @@ async function main() {
         const seenBaseForms = new Set();
 
         for (const word of wordsToProcess) {
-            const baseForm = lemmaMap[word.toLowerCase()] || word.toLowerCase();
+            const baseForm = lemmaMap[word] || word;
             if (seenBaseForms.has(baseForm)) {
                 continue;
             }
@@ -85,7 +86,7 @@ async function main() {
                     if (nominativeSingular && nominativeSingular.word) {
                         // Extract gender from the nominative singular form (e.g., "der", "die", "das")
                         // Assuming the gender is the word itself for articles/determiners
-                        gender = nominativeSingular.word.toLowerCase(); 
+                        gender = nominativeSingular.word; 
                     }
                 }
 

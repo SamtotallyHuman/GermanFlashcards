@@ -1,7 +1,7 @@
 import React from 'react';
 import './Settings.css';
 
-export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTypes, setSelectedTypes }) => {
+export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTypes, setSelectedTypes, uniformMin, setUniformMin, uniformMax, setUniformMax }) => {
     const wordTypes = [
         'verb',
         'noun',
@@ -11,8 +11,7 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTy
         'pronoun',
         'article',
         'conjunction',
-        'numeral',
-		'contraction',
+        'other',
     ];
 
     const handleTypeChange = (event) => {
@@ -28,13 +27,14 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTy
                 <div className="setting">
                     <label htmlFor="mode-select">Mode:</label>
                     <select id="mode-select" value={mode} onChange={(e) => setMode(e.target.value)}>
-                        <option value="Dynamic">Dynamic</option>
+                        <option value="Uniform">Uniform</option>
+						<option value="Dynamic">Dynamic</option>
                         <option value="Fixed">Fixed</option>
                     </select>
                 </div>
                 {mode === 'Fixed' && (
                     <div className="setting">
-                        <label htmlFor="n-value">N:</label>
+                        <label htmlFor="n-value">N: (Max 1000)</label>
                         <input
                             id="n-value"
                             type="number"
@@ -42,6 +42,28 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTy
                             onChange={(e) => setNValue(parseInt(e.target.value, 10))}
                         />
                     </div>
+                )}
+                {mode === 'Uniform' && (
+                    <>
+                        <div className="setting">
+                            <label htmlFor="uniform-min">Min Rank:</label>
+                            <input
+                                id="uniform-min"
+                                type="number"
+                                value={uniformMin}
+                                onChange={(e) => setUniformMin(parseInt(e.target.value, 10))}
+                            />
+                        </div>
+                        <div className="setting">
+                            <label htmlFor="uniform-max">Max Rank: (Max 1000)</label>
+                            <input
+                                id="uniform-max"
+                                type="number"
+                                value={uniformMax}
+                                onChange={(e) => setUniformMax(parseInt(e.target.value, 10))}
+                            />
+                        </div>
+                    </>
                 )}
                 <div className='setting'>
                     <label>Word Types:</label>

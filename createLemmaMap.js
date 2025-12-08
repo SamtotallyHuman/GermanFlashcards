@@ -46,7 +46,7 @@ async function createLemmaMap() {
 
             for (const form of forms) {
                 if (form) {
-                    lemmaMap[form.toLowerCase()] = baseForm.toLowerCase();
+                    lemmaMap[form] = baseForm;
                 }
             }
         }
