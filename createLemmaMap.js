@@ -2,7 +2,7 @@
 const path = require('path');
 
 const INPUT_PATH = 'words.txt';
-const OUTPUT_PATH = path.join(__dirname, 'src', 'lemmaMap.json');
+const OUTPUT_PATH = path.join(__dirname, 'lemmaMap.json');
 
 async function createLemmaMap() {
     try {

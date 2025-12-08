@@ -1,27 +1,26 @@
 .flashcard-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
-    padding: 24px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    padding: 20px;
+    align-items: center;
 }
 
 .flashcard {
-    width: 100%;
-    max-width: 720px;
     perspective: 1000px;
+    width: 80vw; /* Use viewport width for responsiveness */
+    max-width: 800px; /* Add a max width for larger screens */
+    height: 60vh;
+    margin-bottom: 5vh;
 }
 
 .card {
     width: 100%;
-    height: 320px;
+    height: 100%;
     position: relative;
     transform-style: preserve-3d;
     transition: transform 0.6s;
     cursor: pointer;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    border-radius: 16px;
 }
 
 .card.flipped {
@@ -35,105 +34,80 @@
     backface-visibility: hidden;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
-    border-radius: 16px;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     padding: 20px;
     box-sizing: border-box;
 }
 
 .card-front {
-    background-color: #ffffff;
-    color: #333;
+    background-color: #fff;
 }
 
 .card-back {
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: #f9f9f9;
     transform: rotateY(180deg);
+    justify-content: flex-start; /* Align content to the top */
+    align-items: stretch; /* Stretch content to fill width */
 }
 
 .front-text {
-    font-size: 48px;
+    font-size: 2.5rem;
     font-weight: bold;
+}
+
+.reveal-text {
+    position: absolute;
+    bottom: 1vh;
+    font-size: 0.8rem;
+    color: #888;
+    width: 100vh;
     text-align: center;
+    padding-top: 5px; /* Add some space above the text */
+    padding-bottom: 15px; /* Add some space below the text */
+    background-color: #fff; /* Add a white background */
 }
 
 .back-text-header {
-    font-size: 1.2rem;
-    color: #888;
-    margin-bottom: 15px;
-    text-transform: capitalize;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 
-.back-text-pos {
+.back-text-word {
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
-.back-text-gender {
-    margin-left: 8px;
+.back-text-translation {
     font-style: italic;
-}
-
-.back-text-senses {
-    text-align: left;
-    width: 100%;
-    padding: 0 20px;
-    box-sizing: border-box;
-}
-
-.sense {
-    margin-bottom: 15px;
-}
-
-.sense-definition {
-    font-size: 1.2rem;
     color: #333;
-    margin-bottom: 5px;
-}
-
-.sense-example {
-    font-size: 1rem;
-    color: #666;
-    font-style: italic;
 }
 
 .controls {
-    margin-top: 24px;
     display: flex;
-    justify-content: center;
-    gap: 16px;
+    gap: 10px;
 }
 
 .control-button {
-    padding: 12px 24px;
-    border-radius: 8px;
+    padding: 10px 20px;
     border: none;
-    font-weight: 500;
-    font-size: 16px;
+    border-radius: 5px;
+    color: white;
     cursor: pointer;
-    transition: transform 0.1s, box-shadow 0.2s;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
-}
-
-.control-button:active {
-    transform: scale(0.97);
 }
 
 .correct-button {
     background-color: #28a745;
-    color: white;
-}
-
-.correct-button:hover {
-    background-color: #218838;
 }
 
 .incorrect-button {
     background-color: #dc3545;
-    color: white;
-}
-
-.incorrect-button:hover {
-    background-color: #c82333;
 }

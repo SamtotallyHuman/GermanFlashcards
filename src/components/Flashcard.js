@@ -5,7 +5,7 @@ import WordInfo from "./WordInfo";
 
 function getFrontText(id) {
     if (id > 0 && id <= data.length) {
-        return data[id - 1].word;
+        return data[id - 1].default.word;
     }
     return "Loading...";
 }
@@ -50,13 +50,12 @@ export const Flashcard = ({ id, onAction }) => {
                         {backText && (
                             <>
                                 <div className="back-text-header">
-                                    <span className="back-text-word">{backText.word}</span>
-                                    <span className="back-text-translation">{backText.translation}</span>
+                                    <span className="back-text-word">{backText.default.word}</span>
+                                    <span className="back-text-translation">{backText.default.translation}</span>
                                 </div>
                                 <WordInfo info={backText} />
                             </>
                         )}
-                         <div className="reveal-text">Click to hide</div>
                     </div>
                 </div>
             </div>
@@ -79,4 +78,3 @@ export const Flashcard = ({ id, onAction }) => {
         </div>
     );
 };
-

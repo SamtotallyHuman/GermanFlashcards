@@ -1,4 +1,69 @@
 .word-info {
   font-size: 0.8rem;
   color: #555;
+  overflow-y: auto; /* Add vertical scroll if content overflows */
+  height: 100vh; /* Take up available space */
+  padding-right: 10px; /* Space for the scrollbar */
+}
+
+.alternatives {
+  margin-top: 15px;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+.alternative-entry {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed #eee;
+}
+
+.declension-table-container {
+  margin-bottom: 15px;
+}
+
+.declension-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  margin-top: 10px;
+}
+
+.declension-table th,
+.declension-table td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: left;
+}
+
+.declension-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.declension-table td {
+  background-color: #fff;
+}
+
+.conjugation-table-container {
+  margin-bottom: 15px;
+}
+
+.conjugation-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  margin-top: 10px;
+}
+
+.conjugation-table th,
+.conjugation-table td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: left;
+}
+
+.conjugation-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
 }
