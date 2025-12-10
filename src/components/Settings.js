@@ -34,7 +34,7 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTy
                 </div>
                 {mode === 'Fixed' && (
                     <div className="setting">
-                        <label htmlFor="n-value">N: (Max 1000)</label>
+                        <label htmlFor="n-value">N: (Max 10000)</label>
                         <input
                             id="n-value"
                             type="number"
@@ -55,7 +55,7 @@ export const Settings = ({ mode, setMode, nValue, setNValue, onReset, selectedTy
                             />
                         </div>
                         <div className="setting">
-                            <label htmlFor="uniform-max">Max Rank: (Max 1000)</label>
+                            <label htmlFor="uniform-max">Max Rank: (Max 10000)</label>
                             <input
                                 id="uniform-max"
                                 type="number"
