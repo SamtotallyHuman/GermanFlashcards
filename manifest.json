@@ -3,16 +3,16 @@
   "name": "German Flashcards",
   "icons": [
     {
-      "src": "logo192.png",
+      "src": "icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "logo512.png",
+      "src": "icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512",
-	  "purpose": "any maskable"
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
