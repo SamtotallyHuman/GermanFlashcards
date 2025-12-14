@@ -15,6 +15,8 @@ function App() {
     useEffect(() => {
         localStorage.setItem('weights', JSON.stringify(weights));
     }, [weights])
+
+	document.title = "German Flashcards"
         
     return (
         <div className="App">
